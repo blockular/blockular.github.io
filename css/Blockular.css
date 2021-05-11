@@ -10,11 +10,13 @@ font-family: "Bedstead", sans-serif;
 }
 
 pre,code,.mono{
- font-family: "", monospace;
+ font-family: monospace;
 }
 
 body{
 font-family: 'Anonymous Pro', monospace;
+  margin: auto;
+  width: 83%;
 }
 
 /* --- ############# xxx ############# --- */
